@@ -1,4 +1,4 @@
-//lang::CwC
+//lang::C++
 
 #include <iostream>
 #include <exception>
