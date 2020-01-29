@@ -1,4 +1,4 @@
-//lang::C++
+//lang::Cpp
 
 #include <iostream>
 #include <exception>
